@@ -1,10 +1,10 @@
-# bitaddress.org
-JavaScript Client-Side Bitcoin Wallet Generator
+# beyondaddress.org
+JavaScript Client-Side Beyondcoin Wallet Generator
 
-Now Bitcoin addresses and their corresponding private key can be conveniently 
+Now Beyondcoin addresses and their corresponding private key can be conveniently 
 generated in a web browser.
 
-The bitaddress.org project provides an all-in-one HTML document with embedded
+The beyondaddress.org project provides an all-in-one HTML document with embedded
 JavaScript/Css/Images. The JavaScript is readable not minified and contains no
 XMLHttpRequest's (no AJAX). The benefit of this technique is you can load the 
 JavaScript locally and trust that the JavaScript did not change after being 
@@ -15,7 +15,7 @@ https://bitcointalk.org/index.php?topic=43496.0
 
 
 Please send DONATIONS for this project to Bitcoin Address: 
-1NiNja1bUmhSoTXozBRBEtR8LeF9TGbZBN
+1NiNja1bUmhSoTXozBRBEtR8LeF9TGbZBN (The original bitaddress maintainer)
 
 
 END USER NOTES:

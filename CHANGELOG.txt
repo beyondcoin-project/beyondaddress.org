@@ -1,13 +1,13 @@
-bitaddress.org 
-Open Source JavaScript Client-Side Bitcoin Wallet Generator
+beyondaddress.org 
+Open Source JavaScript Client-Side Beyondcoin Wallet Generator
 
-The bitaddress.org file contains all the JavaScript/Css/Images embedded
+The beyondaddress.org file contains all the JavaScript/Css/Images embedded
 in the HTML document. Included in the file name is the file's version 
 number and hash.
 
-The bitaddress.org software is available Open Source under the MIT License.
+The beyondaddress.org software is available Open Source under the MIT License.
 Visit the GitHub Repository for the full copyright and license information:
-https://github.com/pointbiz/bitaddress.org
+https://github.com/beyondcoin-project/beyondaddress.org
 
 Bitcoin Forum thread:
 https://bitcointalk.org/index.php?topic=43496.0
@@ -23,7 +23,10 @@ END USER NOTES:
     they might record the private key you generated.
  5) BIP38 most likely will not work on mobile devices due to hardware limitations.
 
-Here is a signed list of file names and version history.
+Here is a signed list of file names and version history (from beyondaddress.org).
+
+
+Here is a signed list of file names and version history (from bitaddress.org).
 
 2016-12-23: status ACTIVE
 bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html
